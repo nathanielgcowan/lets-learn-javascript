@@ -1,5 +1,5 @@
 // Acos()
 // Acos reutrns the arccosine of a number
 
-const example = Math.acos.apply(10);
-console.log(example);
+// document.getElementById('example').innerText = Math.acos(1)
+// console.log('example')
