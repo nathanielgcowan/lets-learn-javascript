@@ -1,4 +1,4 @@
 // Active Element
 
-const activeelementexample = document.activeElement.tagName;
-console.log(activeelementexample)
+const activeElementExample = document.activeElement.tagName;
+console.log(activeElementExample);
